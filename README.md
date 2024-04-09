@@ -2,10 +2,10 @@
 
 Solutions to problems on LeetCode. Each folder contains the solutions for a different language. Enjoy! 🚀
 
-# Motivation
+## Motivation
 
 "Even in the sheath, the sword must be sharp; so too must the mind and the spirit be within the body."
 
-# License
+## License
 
 MIT License
