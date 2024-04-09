@@ -1,6 +1,6 @@
 # leetcode
 
-Solutions to problems on [LeetCode](https://leetcode.com/explore/). Each folder contains the solutions for a different language. Enjoy! 🚀
+Solutions to problems on [LeetCode](https://leetcode.com/). Each folder contains the solutions for a different language. Enjoy! 🚀
 
 ## Motivation
 
